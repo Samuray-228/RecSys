@@ -16,7 +16,7 @@ Goodreads Comics & Graphic (UCSD Book Graph):
 * [`hw1/experiments.ipynb`](hw1/experiments.ipynb) — основной ноутбук с выполненными ячейками
   (данные, EDA, протокол, подбор на validation, сравнение на test, выводы);
 * [`hw1/DATA.md`](hw1/DATA.md) — датасет и ссылки на источник;
-* [`hw1/report/report.pdf`](hw1/report.pdf) — отчёт (LaTeX-исходник рядом);
+* [`hw1/report.pdf`](hw1/report.pdf) — отчёт (LaTeX-исходник рядом);
 * [`hw1/requirements.txt`](hw1/requirements.txt) — зависимости.
 
 Запуск: `pip install -r hw1/requirements.txt`, затем выполнить `hw1/experiments.ipynb` сверху вниз из папки `hw1`.
